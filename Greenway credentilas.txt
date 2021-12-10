@@ -1,0 +1,18 @@
+Green Way 
+Emp ID: L6W073ATM1
+ 
+
+ https://greenwayhealth.greythr.com/
+
+
+Agile : https://www15.v1host.com/Greenway/Default.aspx?menu=RoadmappingPage&feat-nav=--m2
+
+
+Salesforce Home: https://greenwayhealth.my.salesforce.com
+Training: https://greenwayhealth--c.na138.visual.force.com/[[[[[apex][EmployeeTraining]]]]]?sfdc.tabName=01r3A00000153Ys
+Report an IT issue: https://greenwayhealth--c.na138.visual.force.com/[[[[[apex][ticketSystem]]]]]?sfdc.tabName=01r30000000F8As
+Compliance360: https://secure.compliance360.com/?organization=GREENWAY
+Office 365: https://www.office.com/
+Box: https://greenway.account.box.com/[[[[[login]]]]]
+Greenway Central: https://greenwaymedicaltech.sharepoint.com/sites/GreenwayCentral
+Compliance : https://greenwaymedicaltech-my.sharepoint.com/[:f:][g][personal][jeethujohn_vattakattuchery_greenwayhealth_com][Ej6M7gu9Ew5KnmTWRfTIR8MBDfi05owjRldK8njPdu7XOg]?e=I4QXUc
